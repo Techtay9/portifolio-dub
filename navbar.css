@@ -1,0 +1,7 @@
+.navbar{
+    @apply flex items-center justify-between p-5  text-[#fff]    bg-[rgba(212,218,229,0.9)];
+}
+
+.links{
+    @apply flex gap-8 font-semibold text-gray-500;
+}

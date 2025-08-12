@@ -1,0 +1,20 @@
+<div>
+        <h2 className='text-3xl mt-4 font-bold font-curly'>Skills</h2>
+        <ul className='list-disc ml-6 mt-2'>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>React</li>
+          <li>Tailwind CSS</li>
+        </ul>
+</div>
+
+
+
+
+
+<ul>
+                <li className='mt-4'>Front-End Developer at XYZ Company (2022 - Present)</li>
+                <li className='mt-2'>Web Designer at ABC Agency (2021 - 2022)</li>
+                <li className='mt-2'>Freelance Web Developer (2020 - 2021)</li>
+            </ul>
